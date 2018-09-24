@@ -4,6 +4,7 @@ def main
 ['Hello', 'Goodbye']
 
   # how do we assign an array to a variable?
+ 
  sharks = ["Hammerhead", "Great White", "Tiger"]
   loop do
 
